@@ -1,0 +1,6 @@
+{
+  "src": [
+    "testability/pages/MainPage",
+    "testability/pages/list/NewNoticeTab"
+  ]
+}

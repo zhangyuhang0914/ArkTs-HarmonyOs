@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "湖北交通运输厅APP"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "湖北交通运输厅"
+    },
+    {
+      "name": "internet_reason_desc",
+      "value": "申请网络权限"
+    },
+    {
+      "name": "loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "press_retry",
+      "value": "点我重试"
+    },
+    {
+      "name": "load_error",
+      "value": "加载数据异常"
+    },
+    {
+      "name": "load_empty",
+      "value": "暂无数据"
+    },
+    {
+      "name": "load_success",
+      "value": "加载成功"
+    },
+    {
+      "name": "net_error",
+      "value": "网络错误"
+    },
+    {
+      "name": "dialog_about_title",
+      "value": "关于"
+    }
+  ]
+}
